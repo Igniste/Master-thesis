@@ -1,0 +1,111 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.9.22)  22 SEP 2021 17:26
+entering extended mode
+**C:/Users/kmisi/Documents/MAGISTERKA/rmarkdown/amuthesis-master/amuthesis-mast
+er/_book/imienazwisko.tex
+
+(C:/Users/kmisi/Documents/MAGISTERKA/rmarkdown/amuthesis-master/amuthesis-maste
+r/_book/imienazwisko.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+
+! LaTeX Error: File `amuthesis.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: C:\Users\kmisi\Documents\MAGISTERKA\rmarkdown\amuthesis-master
+\amuthesis-master
+! Undefined control sequence.
+<argument> C:\Users 
+                    \kmisi \Documents \MAGISTERKA \rmarkdown \amuthesis -mas...
+l.13 \usepackage
+                [polish]{babel}
+? 
+! Undefined control sequence.
+<argument> C:\Users \kmisi 
+                           \Documents \MAGISTERKA \rmarkdown \amuthesis -mas...
+l.13 \usepackage
+                [polish]{babel}
+? 
+! Undefined control sequence.
+<argument> C:\Users \kmisi \Documents 
+                                      \MAGISTERKA \rmarkdown \amuthesis -mas...
+l.13 \usepackage
+                [polish]{babel}
+? C:\Users\kmisi\Documents\MAGISTERKA\rmarkdown\amuthesis-master\amuthesis-mast
+er\amuthesis.cls
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? r
+OK, entering \nonstopmode...
+! Undefined control sequence.
+<argument> C:\Users \kmisi \Documents \MAGISTERKA 
+                                                  \rmarkdown \amuthesis -mas...
+l.13 \usepackage
+                [polish]{babel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...i \Documents \MAGISTERKA \rmarkdown 
+                                                  \amuthesis -master\amuthes...
+l.13 \usepackage
+                [polish]{babel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...s \MAGISTERKA \rmarkdown \amuthesis 
+                                                  -master\amuthesis -master
+l.13 \usepackage
+                [polish]{babel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...rkdown \amuthesis -master\amuthesis 
+                                                  -master
+l.13 \usepackage
+                [polish]{babel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: File `C:-master-master.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.13 \usepackage
+                [polish]{babel}
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 35 strings out of 478864
+ 920 string characters out of 2860435
+ 292975 words of memory out of 3000000
+ 18056 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 22i,0n,32p,226b,18s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

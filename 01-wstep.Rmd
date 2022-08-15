@@ -1,0 +1,17 @@
+# Wprowadzenie {#wprowadzenie}
+
+Wprowadzenie powinno mieć charakter opisu od ogółu do szczegółu (np. trzy-pięć paragrafów).
+Pierwszy paragraf powinien być najbardziej ogólny, a kolejne powinny przybliżać czytelnika do problemu.
+Przedostatni paragraf powinien określić jaki jest problem (są problemy), który praca ma rozwiązać i dlaczego jest to (są one) ważne.
+
+Wprowadzenie powinno być zakończone stwierdzeniem celu pracy.
+Dodatkowo tutaj może być również krótki opis co zostało zrealizowane w pracy.
+
+Celem niniejszej pracy jest analiza poziomu rozwoju społeczno-gospodarczego gmin w Województwie Zachodniopomorskim w latach 2016-2019 za pomocą wybranych metod statystycznych oraz analizy przestrzennej. 
+W tym celu posłużono się algorytmem mającym na celu stworzenie syntetycznego wskaźnika poziomu rozwoju społeczno-gospodarczego.
+W pierwszym etapie badania dokonano wyboru i modyfikacji danych społeczno-ekonomicznych pozyskanych w Banku Danych Lokalnych GUS. Przekształcono wartości bezwzględne we względne.
+W drugim etapie zmienne diagnostyczne poddano unitaryzacji zerowanej, a następnie transformowano miarę niepodobieństwa Braya-Curtisa na miarę podobieństwa do wzorca, gdzie jako wzorzec przyjęto hipotetyczną wzorcową gminę (posiadającą wartość maksymalną dla wszystkich zmiennych diagnostycznych).
+Na podstawie syntetycznego miernika poziomu rozwoju oraz wyznaczonych aspektów rozwoju zastosowano analizę skupień metodą k-średnich oraz DBSCAN.
+Następnie dokonano klasyfikacji za pomocą lasów losowych oraz xgboost, porównując wyniki uzyskane 
+Końcowym etapem analizy danych była analiza wariancji przeprowadzona za pomocą analizy jednoczynnikowej ANOVA, testu Kruskala-Wallisa, testu Willcoxa oraz testów post-hoc.  
+Analize oraz wizualizacje wyników wykonano za pomocą jezyka R.

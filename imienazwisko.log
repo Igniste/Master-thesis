@@ -1,0 +1,1601 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.17)  22 SEP 2021 18:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**imienazwisko.tex
+(./imienazwisko.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (./amuthesis.cls
+Document Class: amuthesis 2020/02/16 AMU Thesis Class
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/inputenc.st
+y
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/bera.sty
+Package: bera 2004/01/31 (WaS)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/textcomp.st
+y
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/beraserif.sty
+Package: beraserif 2004/01/30 (WaS)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/keyval.st
+y
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+LaTeX Font Info:    Trying to load font information for T1+fve on input line 30
+.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fve.fd
+File: t1fve.fd 2004/09/07 scalable font definitions for T1/fve.
+)
+LaTeX Font Info:    Font shape `T1/fve/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 30.
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/berasans.st
+y
+Package: berasans 2004/01/30 (WaS)
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/beramono.st
+y
+Package: beramono 2004/01/31 (WaS)
+))
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.st
+y
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/02/12 v1.4n Standard LaTeX document class
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+LaTeX Font Info:    Font shape `T1/fve/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 54.
+)
+\c@part=\count182
+\c@chapter=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/geometry/geometry.
+sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks19
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption.st
+y
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/caption3.s
+ty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen147
+\captionmargin@=\dimen148
+\captionwidth=\dimen149
+\caption@tempdima=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count194
+\c@continuedfloat=\count195
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.
+sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2021/04/25 v1.2e Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup5
+\symboldletters=\mathgroup6
+\symboldsymbols=\mathgroup7
+Package bm Info: No bold for \OMX/zplm/m/n, using \pmb.
+\symboldupright=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
+y
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip58
+For additional information on amsmath, use the `?' option.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amstext.st
+y
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen154
+))
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen155
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen156
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks21
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks22
+\eqnshift@=\dimen157
+\alignsep@=\dimen158
+\tagshift@=\dimen159
+\tagwidth@=\dimen160
+\totwidth@=\dimen161
+\lineht@=\dimen162
+\@envbody=\toks23
+\multlinegap=\skip59
+\multlinetaggap=\skip60
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphicx.
+sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/graphics.
+sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/graph
+ics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-def/pdfte
+x.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/placeins/placeins.
+sty
+Package: placeins 2005/04/18  v 2.2
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
+sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box52
+\beforetitleunit=\skip61
+\aftertitleunit=\skip62
+\ttl@plus=\dimen165
+\ttl@minus=\dimen166
+\ttl@toksa=\toks25
+\titlewidth=\dimen167
+\titlewidthlast=\dimen168
+\titlewidthfirst=\dimen169
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/setspace/setspace.
+sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks26
+\MT@count=\count274
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen170
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count275
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip63
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/microtyp
+e.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+))
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/ragged2e/ragged2e.
+sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+\CenteringLeftskip=\skip64
+\RaggedLeftLeftskip=\skip65
+\RaggedRightLeftskip=\skip66
+\CenteringRightskip=\skip67
+\RaggedLeftRightskip=\skip68
+\RaggedRightRightskip=\skip69
+\CenteringParfillskip=\skip70
+\RaggedLeftParfillskip=\skip71
+\RaggedRightParfillskip=\skip72
+\JustifyingParfillskip=\skip73
+\CenteringParindent=\skip74
+\RaggedLeftParindent=\skip75
+\RaggedRightParindent=\skip76
+\JustifyingParindent=\skip77
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.
+sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdfte
+xcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/infwarerr/infwar
+err.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.
+sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
+sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/kvoptions/kvoption
+s.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetk
+eys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/logreq/logreq.s
+ty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count277
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count278
+\c@listtotal=\count279
+\c@listcount=\count280
+\c@liststart=\count281
+\c@liststop=\count282
+\c@citecount=\count283
+\c@citetotal=\count284
+\c@multicitecount=\count285
+\c@multicitetotal=\count286
+\c@instcount=\count287
+\c@maxnames=\count288
+\c@minnames=\count289
+\c@maxitems=\count290
+\c@minitems=\count291
+\c@citecounter=\count292
+\c@maxcitecounter=\count293
+\c@savedcitecounter=\count294
+\c@uniquelist=\count295
+\c@uniquename=\count296
+\c@refsection=\count297
+\c@refsegment=\count298
+\c@maxextratitle=\count299
+\c@maxextratitleyear=\count300
+\c@maxextraname=\count301
+\c@maxextradate=\count302
+\c@maxextraalpha=\count303
+\c@abbrvpenalty=\count304
+\c@highnamepenalty=\count305
+\c@lownamepenalty=\count306
+\c@maxparens=\count307
+\c@parenlevel=\count308
+\blx@tempcnta=\count309
+\blx@tempcntb=\count310
+\blx@tempcntc=\count311
+\blx@maxsection=\count312
+\blx@maxsegment@0=\count313
+\blx@notetype=\count314
+\blx@parenlevel@text=\count315
+\blx@parenlevel@foot=\count316
+\blx@sectionciteorder@0=\count317
+\blx@entrysetcounter=\count318
+\blx@biblioinstance=\count319
+\labelnumberwidth=\skip78
+\labelalphawidth=\skip79
+\biblabelsep=\skip80
+\bibitemsep=\skip81
+\bibnamesep=\skip82
+\bibinitsep=\skip83
+\bibparsep=\skip84
+\bibhang=\skip85
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language4
+\c@mincomprange=\count320
+\c@maxcomprange=\count321
+\c@mincompwidth=\count322
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-dm.de
+f
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'authoryear-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count323
+\c@savedafterword=\count324
+\c@annotator=\count325
+\c@savedannotator=\count326
+\c@author=\count327
+\c@savedauthor=\count328
+\c@bookauthor=\count329
+\c@savedbookauthor=\count330
+\c@commentator=\count331
+\c@savedcommentator=\count332
+\c@editor=\count333
+\c@savededitor=\count334
+\c@editora=\count335
+\c@savededitora=\count336
+\c@editorb=\count337
+\c@savededitorb=\count338
+\c@editorc=\count339
+\c@savededitorc=\count340
+\c@foreword=\count341
+\c@savedforeword=\count342
+\c@holder=\count343
+\c@savedholder=\count344
+\c@introduction=\count345
+\c@savedintroduction=\count346
+\c@namea=\count347
+\c@savednamea=\count348
+\c@nameb=\count349
+\c@savednameb=\count350
+\c@namec=\count351
+\c@savednamec=\count352
+\c@translator=\count353
+\c@savedtranslator=\count354
+\c@shortauthor=\count355
+\c@savedshortauthor=\count356
+\c@shorteditor=\count357
+\c@savedshorteditor=\count358
+\c@labelname=\count359
+\c@savedlabelname=\count360
+\c@institution=\count361
+\c@savedinstitution=\count362
+\c@lista=\count363
+\c@savedlista=\count364
+\c@listb=\count365
+\c@savedlistb=\count366
+\c@listc=\count367
+\c@savedlistc=\count368
+\c@listd=\count369
+\c@savedlistd=\count370
+\c@liste=\count371
+\c@savedliste=\count372
+\c@listf=\count373
+\c@savedlistf=\count374
+\c@location=\count375
+\c@savedlocation=\count376
+\c@organization=\count377
+\c@savedorganization=\count378
+\c@origlocation=\count379
+\c@savedoriglocation=\count380
+\c@origpublisher=\count381
+\c@savedorigpublisher=\count382
+\c@publisher=\count383
+\c@savedpublisher=\count384
+\c@language=\count385
+\c@savedlanguage=\count386
+\c@origlanguage=\count387
+\c@savedoriglanguage=\count388
+\c@pageref=\count389
+\c@savedpageref=\count390
+\shorthandwidth=\skip86
+\shortjournalwidth=\skip87
+\shortserieswidth=\skip88
+\shorttitlewidth=\skip89
+\shortauthorwidth=\skip90
+\shorteditorwidth=\skip91
+\locallabelnumberwidth=\skip92
+\locallabelalphawidth=\skip93
+\localshorthandwidth=\skip94
+\localshortjournalwidth=\skip95
+\localshortserieswidth=\skip96
+\localshorttitlewidth=\skip97
+\localshortauthorwidth=\skip98
+\localshorteditorwidth=\skip99
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-compa
+t.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.
+def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count391
+\c@textcitetotal=\count392
+\c@textcitemaxnames=\count393
+\c@biburlbigbreakpenalty=\count394
+\c@biburlbreakpenalty=\count395
+\c@biburlnumpenalty=\count396
+\c@biburlucpenalty=\count397
+\c@biburllcpenalty=\count398
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count399
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-natbi
+b.def
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.bbx' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/autho
+ryear-comp.bbx
+File: authoryear-comp.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authoryear'...
+Package biblatex Info: ... file 'authoryear.bbx' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/autho
+ryear.bbx
+File: authoryear.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/bbx/stand
+ard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count400
+\c@bbx:relatedtotal=\count401
+)))
+Package biblatex Info: Trying to load citation style 'authoryear-comp'...
+Package biblatex Info: ... file 'authoryear-comp.cbx' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/cbx/autho
+ryear-comp.cbx
+File: authoryear-comp.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\footcites'.
+Package biblatex Info: Redefining '\footcitetexts'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.
+cfg
+File: biblatex.cfg 
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xpatch/xpatch.s
+ty
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-08-27 L3 programming layer (loader) 
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
+d-pdftex.def
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count402
+\l__pdf_internal_box=\box53
+))
+Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/
+xparse.sty
+Package: xparse 2021-08-27 L3 Experimental document command parser
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.s
+ty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics-cfg/color
+.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
+sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvd
+efinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfesc
+ape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hycolor/hycolor.st
+y
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/letltxmacro/letltx
+macro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/auxhook/auxhook.st
+y
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen171
+\Hy@linkcounter=\count403
+\Hy@pagecounter=\count404
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
+f
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-
+langpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
+sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmd
+s.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count405
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `false' on input line 4073.
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count406
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen172
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bitset/bitset.st
+y
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/bigintcalc/bigin
+tcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count407
+\Field@Width=\dimen173
+\Fld@charsize=\dimen174
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.
+sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count408
+\c@Item=\count409
+\c@Hfootnote=\count410
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.d
+ef
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx
+.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count411
+\c@bookmark@seq@number=\count412
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
+unfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/uniquecounter/un
+iquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip100
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 171.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 171.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 171.
+
+Package hyperref Info: Option `colorlinks' set `true' on input line 171.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tocbibind/tocbibin
+d.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tocloft/tocloft.st
+y
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip101
+\cftbeforetoctitleskip=\skip102
+\cftaftertoctitleskip=\skip103
+\cftbeforepartskip=\skip104
+\cftpartnumwidth=\skip105
+\cftpartindent=\skip106
+\cftbeforechapskip=\skip107
+\cftchapindent=\skip108
+\cftchapnumwidth=\skip109
+\cftbeforesecskip=\skip110
+\cftsecindent=\skip111
+\cftsecnumwidth=\skip112
+\cftbeforesubsecskip=\skip113
+\cftsubsecindent=\skip114
+\cftsubsecnumwidth=\skip115
+\cftbeforesubsubsecskip=\skip116
+\cftsubsubsecindent=\skip117
+\cftsubsubsecnumwidth=\skip118
+\cftbeforeparaskip=\skip119
+\cftparaindent=\skip120
+\cftparanumwidth=\skip121
+\cftbeforesubparaskip=\skip122
+\cftsubparaindent=\skip123
+\cftsubparanumwidth=\skip124
+\cftbeforeloftitleskip=\skip125
+\cftafterloftitleskip=\skip126
+\cftbeforefigskip=\skip127
+\cftfigindent=\skip128
+\cftfignumwidth=\skip129
+\c@lofdepth=\count413
+\c@lotdepth=\count414
+\cftbeforelottitleskip=\skip130
+\cftafterlottitleskip=\skip131
+\cftbeforetabskip=\skip132
+\cfttabindent=\skip133
+\cfttabnumwidth=\skip134
+) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/framed/framed.st
+y
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip135
+\fb@frw=\dimen175
+\fb@frh=\dimen176
+\FrameRule=\dimen177
+\FrameSep=\dimen178
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.
+sty
+Package: fancyvrb 2021/08/12 v3.8 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count415
+\FV@InFile=\read3
+\FV@TabBox=\box54
+\c@FancyVerbLine=\count416
+\FV@StepNumber=\count417
+\FV@OutFile=\write4
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/longtable.st
+y
+Package: longtable 2021-05-07 v4.16 Multi-page Table package (DPC)
+\LTleft=\skip136
+\LTright=\skip137
+\LTpre=\skip138
+\LTpost=\skip139
+\LTchunksize=\count418
+\LTcapwidth=\dimen179
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count419
+\LT@rows=\count420
+\c@LT@tables=\count421
+\c@LT@chunks=\count422
+\LT@p@ftn=\toks27
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/booktabs/booktabs.
+sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen180
+\lightrulewidth=\dimen181
+\cmidrulewidth=\dimen182
+\belowrulesep=\dimen183
+\belowbottomsep=\dimen184
+\aboverulesep=\dimen185
+\abovetopsep=\dimen186
+\cmidrulesep=\dimen187
+\cmidrulekern=\dimen188
+\defaultaddspace=\dimen189
+\@cmidla=\count423
+\@cmidlb=\count424
+\@aboverulesep=\dimen190
+\@belowrulesep=\dimen191
+\@thisruleclass=\count425
+\@lastruleclass=\count426
+\@thisrulewidth=\dimen192
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.s
+ty
+Package: babel 2021/07/22 3.63 The Babel package
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/07/22 3.63 Babel common definitions
+\babel@savecnt=\count427
+\U@D=\dimen193
+\l@unhyphenated=\language5
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel/txtbabel.d
+ef)
+\bbl@readstream=\read4
+)
+\bbl@dirlevel=\count428
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/babel-polish/pol
+ish.ldf
+Language: polish 2005/03/31 v1.2l Polish support from the babel system
+Package babel Info: Making " an active character on input line 83.
+\pl@left=\dimen194
+\pl@down=\dimen195
+\pl@right=\dimen196
+\pl@temp=\dimen197
+)) (c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/polski/polski.s
+ty
+Package: polski 2021/08/25 v1.3.6 Polish language package
+   Inputenc package detected. Catcodes not changed.
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen198
+\ar@mcellbox=\box60
+\extrarowheight=\dimen199
+\NC@list=\toks28
+\extratabsurround=\skip140
+\backup@length=\skip141
+\ar@cellbox=\box61
+)
+\TX@col@width=\dimen256
+\TX@old@table=\dimen257
+\TX@old@col=\dimen258
+\TX@target=\dimen259
+\TX@delta=\dimen260
+\TX@cols=\count429
+\TX@ftn=\toks29
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/tools/indentfirst.
+sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count430
+\@quotereset=\count431
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 41
+.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+) (./imienazwisko.aux)
+\openout1 = `imienazwisko.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(99.58464pt, 426.79135pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 674.33032pt, 99.58464pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=426.79135pt
+* \textheight=674.33032pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=103.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: longtable package is loaded.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/caption/ltcaption.
+sty
+Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epsto
+pdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/latexconfig/epstop
+df-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Info: Redefining \microtypecontext on input line 41.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 41.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/microtype/mt-ppl.c
+fg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Package biblatex Info: Trying to load language 'polish'...
+Package biblatex Info: ... file 'polish.lbx' found.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/lbx/polis
+h.lbx
+File: polish.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-08-27 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-
+expl3.sty
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `imienazwisko.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'imienazwisko.bbl' found.
+(./imienazwisko.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                R-factoExtra
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                R-stats
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
+Package biblatex Info: Reference section=0 on input line 41.
+Package biblatex Info: Reference segment=0 on input line 41.
+Package hyperref Info: Link coloring ON on input line 41.
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.s
+ty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/refcount/refcount.
+sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/generic/gettitlestring/g
+ettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count432
+)
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
+(./imienazwisko.out) (./imienazwisko.out)
+\@outlinefile=\write5
+\openout5 = `imienazwisko.out'.
+
+LaTeX Font Info:    Trying to load font information for T1+fvs on input line 45
+.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fvs.fd
+File: t1fvs.fd 2004/09/07 scalable font definitions for T1/fvs.
+)
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 45.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvs' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<figures/uam-logo.jpg, id=75, 447.17062pt x 90.3375pt>
+File: figures/uam-logo.jpg Graphic file (type jpg)
+<use figures/uam-logo.jpg>
+Package pdftex.def Info: figures/uam-logo.jpg  used on input line 45.
+(pdftex.def)             Requested size: 540.60236pt x 109.22322pt.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 45.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 12.9599pt on input line 45.
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 15.55188pt on input line 45.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 15.55188pt on input line 45.
+LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
+(Font)              scaled to size 15.55188pt on input line 45.
+[1
+
+{c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdfte
+x.map} <./figures/uam-logo.jpg>] [2]
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 13.49991pt on input line 48.
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 12.9599pt on input line 65.
+[3] [4]
+LaTeX Font Info:    Font shape `T1/fvs/m/n' will be
+(Font)              scaled to size 21.59985pt on input line 84.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 21.59985pt on input line 84.
+(./imienazwisko.toc
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 4
+.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+4.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+4.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+4.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+4.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+ [][] [][][]\T1/fvs/m/n/10.95 (+20) Konstrukcja syn-te-tycz-nego mier-nika po-z
+iomu roz-woju spoªeczno- 
+ []
+
+)
+\tf@toc=\write6
+\openout6 = `imienazwisko.toc'.
+
+[5] [6
+
+]
+Rozdzia\l  1.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 18.66588pt on input line 87.
+LaTeX Font Info:    Font shape `T1/fvs/b/n' will be
+(Font)              scaled to size 22.39185pt on input line 87.
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--87
+|\T1/fvs/b/n/24.88 (+20) Badanie roz-woju spoªeczno-
+ []
+
+LaTeX Font Info:    Font shape `T1/fvs/m/it' will be
+(Font)              scaled to size 9.85492pt on input line 93.
+[7]
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 1
+11.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+) [8] [9]
+<figures/rycina1-1.pdf, id=164, 433.62pt x 266.9975pt>
+File: figures/rycina1-1.pdf Graphic file (type pdf)
+<use figures/rycina1-1.pdf>
+Package pdftex.def Info: figures/rycina1-1.pdf  used on input line 173.
+(pdftex.def)             Requested size: 554.83005pt x 341.67412pt.
+
+Overfull \hbox (128.0387pt too wide) in paragraph at lines 173--174
+ [][] 
+ []
+
+
+Overfull \hbox (47.46542pt too wide) in paragraph at lines 188--223
+ [][] 
+ []
+
+[10] [11]
+<figures/Gestosc_2016.png, id=182, 752.8125pt x 464.4853pt>
+File: figures/Gestosc_2016.png Graphic file (type png)
+<use figures/Gestosc_2016.png>
+Package pdftex.def Info: figures/Gestosc_2016.png  used on input line 241.
+(pdftex.def)             Requested size: 426.79135pt x 263.3348pt.
+[12 <./figures/rycina1-1.pdf>] [13 <./figures/Gestosc_2016.png>] [14]
+Rozdzia\l  2.
+LaTeX Font Info:    Trying to load font information for TS1+fvs on input line 3
+12.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/ts1fvs.fd
+File: ts1fvs.fd 2004/09/07 scalable font definitions for TS1/fvs.
+)
+LaTeX Font Info:    Font shape `TS1/fvs/m/it' will be
+(Font)              scaled to size 9.85492pt on input line 312.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvs' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+[15
+
+] [16] [17] [18] [19]
+<figures/forest.jpg, id=256, 309.54584pt x 228.9616pt>
+File: figures/forest.jpg Graphic file (type jpg)
+<use figures/forest.jpg>
+Package pdftex.def Info: figures/forest.jpg  used on input line 431.
+(pdftex.def)             Requested size: 426.79135pt x 315.69832pt.
+
+Overfull \hbox (80.32741pt too wide) in paragraph at lines 435--435
+[][]|\T1/ppl/m/it/10.95 (-20) Sche-mat al-go-rytmu la-sów lo-so-wych. ›ródªo:ht
+tps://www.sciencedirect.com/topics/engineering/random-
+ []
+
+[20] [21 <./figures/forest.jpg>]
+<figures/anova.png, id=276, 411.03563pt x 149.05687pt>
+File: figures/anova.png Graphic file (type png)
+<use figures/anova.png>
+Package pdftex.def Info: figures/anova.png  used on input line 477.
+(pdftex.def)             Requested size: 426.79135pt x 154.76984pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--481
+[][]|\T1/ppl/m/it/10.95 (+20) Wa-rian-cje mi¦-dzy-gru-powa (a) i we-wn¡trz-gru-
+pow¡ (b) ™ró-
+ []
+
+[22] [23 <./figures/anova.PNG>] [24]
+Rozdzia\l  3.
+LaTeX Font Info:    Trying to load font information for T1+fvm on input line 53
+0.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/t1fvm.fd
+File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
+)
+LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 530.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10.95> not available
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 531.
+LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
+(Font)              scaled to size 9.85492pt on input line 531.
+LaTeX Font Info:    Font shape `T1/fvm/b/n' will be
+(Font)              scaled to size 9.85492pt on input line 532.
+[25
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+fvm on input line 5
+48.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/bera/ts1fvm.fd
+File: ts1fvm.fd 2004/09/07 scalable font definitions for TS1/fvm.
+)
+LaTeX Font Info:    Font shape `TS1/fvm/m/it' in size <10.95> not available
+(Font)              Font shape `TS1/fvm/m/sl' tried instead on input line 548.
+LaTeX Font Info:    Font shape `TS1/fvm/m/sl' will be
+(Font)              scaled to size 9.85492pt on input line 548.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fvm' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+[26]
+Underfull \hbox (badness 5105) in paragraph at lines 598--598
+[][]|[]\T1/ppl/m/it/10.95 (+20) Ramka da-nych dla wska¹-nika syn-te-tycz-nego p
+o-ziomu roz-woju spoªeczno-
+ []
+
+[27]
+<figures/unnamed-chunk-9-1.pdf, id=334, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-9-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-9-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-9-1.pdf  used on input line 643.
+
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[28]
+<figures/unnamed-chunk-10-1.pdf, id=343, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-10-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-10-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-10-1.pdf  used on input line 664
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[29 <./figures/unnamed-chunk-9-1.pdf>]
+<figures/unnamed-chunk-11-1.pdf, id=353, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-11-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-11-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-11-1.pdf  used on input line 685
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[30 <./figures/unnamed-chunk-10-1.pdf>] [31 <./figures/unnamed-chunk-11-1.pdf>]
+<figures/rycina5 -1.pdf, id=374, 433.62pt x 266.9975pt>
+File: figures/rycina5 -1.pdf Graphic file (type pdf)
+<use figures/rycina5 -1.pdf>
+Package pdftex.def Info: figures/rycina5 -1.pdf  used on input line 701.
+(pdftex.def)             Requested size: 448.13222pt x 275.94751pt.
+
+Overfull \hbox (21.34087pt too wide) in paragraph at lines 701--701
+ [] 
+ []
+
+<figures/unnamed-chunk-12-1.pdf, id=376, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-12-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-12-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-12-1.pdf  used on input line 722
+.
+(pdftex.def)             Requested size: 448.13222pt x 275.94751pt.
+
+Overfull \hbox (21.34087pt too wide) in paragraph at lines 722--722
+ [] 
+ []
+
+[32 <./figures/rycina5 -1.pdf>]
+<figures/unnamed-chunk-13-1.pdf, id=389, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-13-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-13-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-13-1.pdf  used on input line 743
+.
+(pdftex.def)             Requested size: 448.13222pt x 275.94751pt.
+
+Overfull \hbox (21.34087pt too wide) in paragraph at lines 743--743
+ [] 
+ []
+
+[33 <./figures/unnamed-chunk-12-1.pdf>]
+<figures/unnamed-chunk-14-1.pdf, id=402, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-14-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-14-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-14-1.pdf  used on input line 764
+.
+(pdftex.def)             Requested size: 448.13222pt x 275.94751pt.
+
+Overfull \hbox (21.34087pt too wide) in paragraph at lines 764--764
+ [] 
+ []
+
+[34 <./figures/unnamed-chunk-13-1.pdf>] [35 <./figures/unnamed-chunk-14-1.pdf>]
+<figures/unnamed-chunk-15-1.pdf, id=429, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-15-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-15-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-15-1.pdf  used on input line 794
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+<figures/unnamed-chunk-15-2.pdf, id=430, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-15-2.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-15-2.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-15-2.pdf  used on input line 794
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[36 <./figures/unnamed-chunk-15-1.pdf> <./figures/unnamed-chunk-15-2.pdf>]
+<figures/unnamed-chunk-16-1.pdf, id=449, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-16-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-16-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-16-1.pdf  used on input line 806
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[37 <./figures/unnamed-chunk-16-1.pdf>]
+<figures/unnamed-chunk-17-1.pdf, id=461, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-17-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-17-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-17-1.pdf  used on input line 828
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[38 <./figures/unnamed-chunk-17-1.pdf>]
+<figures/unnamed-chunk-18-1.pdf, id=476, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-18-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-18-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-18-1.pdf  used on input line 847
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[39 <./figures/unnamed-chunk-18-1.pdf>]
+<figures/unnamed-chunk-19-1.pdf, id=488, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-19-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-19-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-19-1.pdf  used on input line 860
+.
+(pdftex.def)             Requested size: 448.13222pt x 275.94751pt.
+
+Overfull \hbox (21.34087pt too wide) in paragraph at lines 860--860
+ [] 
+ []
+
+<figures/unnamed-chunk-20-1.pdf, id=490, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-20-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-20-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-20-1.pdf  used on input line 871
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[40 <./figures/unnamed-chunk-19-1.pdf>] [41 <./figures/unnamed-chunk-20-1.pdf>]
+<figures/unnamed-chunk-22-1.pdf, id=511, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-22-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-22-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-22-1.pdf  used on input line 890
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+<figures/unnamed-chunk-23-1.pdf, id=512, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-23-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-23-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-23-1.pdf  used on input line 899
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[42 <./figures/unnamed-chunk-22-1.pdf>]
+Underfull \hbox (badness 1436) in paragraph at lines 901--906
+[]\T1/fvs/m/n/10.95 (+20) Jak wi-da¢ naj-istot-niej-szymi ka-te-go-riami dla mo
+-delu jest roz-wój spoªeczno-
+ []
+
+<figures/unnamed-chunk-24-1.pdf, id=522, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-24-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-24-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-24-1.pdf  used on input line 916
+.
+(pdftex.def)             Requested size: 384.1096pt x 236.52293pt.
+[43 <./figures/unnamed-chunk-23-1.pdf>]
+<figures/unnamed-chunk-25-1.pdf, id=533, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-25-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-25-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-25-1.pdf  used on input line 927
+.
+(pdftex.def)             Requested size: 384.1096pt x 236.52293pt.
+[44 <./figures/unnamed-chunk-24-1.pdf> <./figures/unnamed-chunk-25-1.pdf>]
+<figures/unnamed-chunk-26-1.pdf, id=550, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-26-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-26-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-26-1.pdf  used on input line 938
+.
+(pdftex.def)             Requested size: 384.1096pt x 236.52293pt.
+<figures/unnamed-chunk-27-1.pdf, id=552, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-27-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-27-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-27-1.pdf  used on input line 952
+.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[45 <./figures/unnamed-chunk-26-1.pdf>]
+LaTeX Font Info:    Font shape `TS1/fvm/m/n' will be
+(Font)              scaled to size 9.85492pt on input line 967.
+[46 <./figures/unnamed-chunk-27-1.pdf>]
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+[47]
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+[48]
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+[49]
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1099
+ []
+
+[50]
+<figures/xgboost.png, id=593, 648.17157pt x 545.03625pt>
+File: figures/xgboost.png Graphic file (type png)
+<use figures/xgboost.png>
+Package pdftex.def Info: figures/xgboost.png  used on input line 1110.
+(pdftex.def)             Requested size: 426.79135pt x 358.88507pt.
+[51 <./figures/xgboost.png>]
+<figures/unnamed-chunk-30-1.pdf, id=599, 1003.75pt x 582.175pt>
+File: figures/unnamed-chunk-30-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-30-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-30-1.pdf  used on input line 112
+7.
+(pdftex.def)             Requested size: 426.79135pt x 247.54103pt.
+
+Overfull \hbox (97.6215pt too wide) in paragraph at lines 1127--1128
+[]\T1/fvs/m/n/10.95 (-20) \begin{center}[] 
+ []
+
+[52 <./figures/unnamed-chunk-30-1.pdf>]
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1165.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+165.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+1165.
+(c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1165.
+[53]
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1193.
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1193.
+[54]
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1217.
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1217.
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1241.
+Package textcomp Info: Symbol \textasciigrave not provided by
+(textcomp)             font family fvm in TS1 encoding.
+(textcomp)             Default family used instead on input line 1241.
+[55] [56]
+<figures/unnamed-chunk-37-1.pdf, id=634, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-37-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-37-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-37-1.pdf  used on input line 128
+4.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[57 <./figures/unnamed-chunk-37-1.pdf>]
+<figures/unnamed-chunk-39-1.pdf, id=646, 433.62pt x 266.9975pt>
+File: figures/unnamed-chunk-39-1.pdf Graphic file (type pdf)
+<use figures/unnamed-chunk-39-1.pdf>
+Package pdftex.def Info: figures/unnamed-chunk-39-1.pdf  used on input line 131
+1.
+(pdftex.def)             Requested size: 426.79135pt x 262.80463pt.
+[58 <./figures/unnamed-chunk-39-1.pdf>] [59] [60]
+<figures/mapa_2016_bez.png, id=665, 440.39531pt x 383.18156pt>
+File: figures/mapa_2016_bez.png Graphic file (type png)
+<use figures/mapa_2016_bez.png>
+Package pdftex.def Info: figures/mapa_2016_bez.png  used on input line 1412.
+(pdftex.def)             Requested size: 426.79135pt x 371.35823pt.
+<figures/mapa_2017_bez.png, id=667, 440.39531pt x 383.18156pt>
+File: figures/mapa_2017_bez.png Graphic file (type png)
+<use figures/mapa_2017_bez.png>
+Package pdftex.def Info: figures/mapa_2017_bez.png  used on input line 1425.
+(pdftex.def)             Requested size: 426.79135pt x 371.35823pt.
+[61]
+<figures/mapa_2018_bez.png, id=675, 440.39531pt x 383.18156pt>
+File: figures/mapa_2018_bez.png Graphic file (type png)
+<use figures/mapa_2018_bez.png>
+Package pdftex.def Info: figures/mapa_2018_bez.png  used on input line 1441.
+(pdftex.def)             Requested size: 426.79135pt x 371.35823pt.
+[62 <./figures/mapa_2016_bez.png>]
+<figures/mapa_2019_bez.png, id=684, 440.39531pt x 383.18156pt>
+File: figures/mapa_2019_bez.png Graphic file (type png)
+<use figures/mapa_2019_bez.png>
+Package pdftex.def Info: figures/mapa_2019_bez.png  used on input line 1454.
+(pdftex.def)             Requested size: 426.79135pt x 371.35823pt.
+[63 <./figures/mapa_2017_bez.png>] [64 <./figures/mapa_2018_bez.png>] [65 <./fi
+gures/mapa_2019_bez.png>] [66
+
+]
+Rozdzia\l  4.
+[67] [68] [69
+
+] [70] [71] [72] (./imienazwisko.aux)
+Package rerunfilecheck Info: File `imienazwisko.out' has not changed.
+(rerunfilecheck)             Checksum: 68A094144EFBEEFC0F5CF9A8CE04E599;3942.
+Package logreq Info: Writing requests to 'imienazwisko.run.xml'.
+\openout1 = `imienazwisko.run.xml'.
+
+ )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 113 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 24087 strings out of 480524
+ 412754 string characters out of 5900724
+ 1191979 words of memory out of 5000000
+ 40622 multiletter control sequences out of 15000+600000
+ 519564 words of font info for 440 fonts, out of 8000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 75i,13n,81p,1598b,18913s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljf
+our/jknappen/ec/tcit1095.600pk>{c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-di
+st/fonts/enc/dvips/base/8r.enc}<c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/Users/kmisi/AppData/Roaming/Ti
+nyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/Users/kmisi/AppD
+ata/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/Use
+rs/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/ma
+thpazo/fplmr.pfb><c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1
+/public/mathpazo/fplmri.pfb><c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/
+fonts/type1/public/bera/fvmb8a.pfb><c:/Users/kmisi/AppData/Roaming/TinyTeX/texm
+f-dist/fonts/type1/public/bera/fvmr8a.pfb><c:/Users/kmisi/AppData/Roaming/TinyT
+eX/texmf-dist/fonts/type1/public/bera/fvmro8a.pfb><c:/Users/kmisi/AppData/Roami
+ng/TinyTeX/texmf-dist/fonts/type1/public/bera/fvsb8a.pfb><c:/Users/kmisi/AppDat
+a/Roaming/TinyTeX/texmf-dist/fonts/type1/public/bera/fvsr8a.pfb><c:/Users/kmisi
+/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/bera/fvsro8a.pfb><c:/Use
+rs/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb
+><c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/up
+lr8a.pfb><c:/Users/kmisi/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/pal
+atino/uplri8a.pfb>
+Output written on imienazwisko.pdf (72 pages, 670238 bytes).
+PDF statistics:
+ 867 PDF objects out of 1000 (max. 8388607)
+ 690 compressed objects within 7 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 97078 words of extra memory for PDF output out of 106986 (max. 10000000)
+

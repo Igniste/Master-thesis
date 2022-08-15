@@ -1,0 +1,16 @@
+---
+title: "Analiza poziomu rozwoju społeczno-gospodarczego gmin w Województwie Zachodniopomorskim
+  w latach 2016-2019 metodami analizy przestrzennej"
+titleeng: "Analysis of the level of socio-economic development of communes in the West Pomeranian Voivodeship in 2016-2019 using spatial analysis methods"
+degreetype: "Praca magisterska"
+author: "Kacper Misiun"
+major: "Analiza i Przetwarzanie Danych"
+albumid: "414342"
+year: "2021"
+output: bookdown::pdf_book
+site: bookdown::bookdown_site
+link-citations: yes
+knit: "bookdown::render_book"
+---
+
+

@@ -1,0 +1,34 @@
+## Streszczenie {-}
+\setlength\parindent{24pt}
+
+Praca ma na celu przedstawienie zróżnicowania przestrzennego poziomu rozwoju gmin w Województwie Zachodniopomorskim w latach
+2016-2019. Przedstawiona została konstrukcja syntetycznego wskaźnika poziomu rozwoju społeczno-gospodarczego oraz jego aspektów
+społeczno-gospodarczych.
+Następnie wykorzystano metody analizy skupień (K-średnich oraz DBSCAN) w celu grupowania obserwacji ze względu na poziom rozwoju społeczno-gospodarczego. 
+Korzystając ze stworzonych dzięki analizie skupień klas przeprowadzono klasyfikacje za pomocą metody lasów losowych oraz boostingu gradientowego (*xgboost*), dzięki czemu zaobserwowano, które z czynników oraz aspektów poziomu rozwoju wykazują się największą istotnością.
+Kolejnym krokiem było zastosowanie jednoczynnikowej analizy wariancji ANOVA oraz testów post-hoc do sprawdzenia czy występują istotne różnice między poszczególnymi poziomami rozwoju.
+Przeprowadzono parametryczną procedurę jak i nieparametryczną (test Kruskala-Wallisa).
+Sporządzono mapy przedstawiające poziomy rozwoju gmin w województwie Zachodniopomorskim w&nbsp;latach 2016-2019.
+Badanie przeprowadzono z użyciem środowiska R.
+
+Słowa kluczowe: analiza skupień, klasyfikacja, analiza wariancji, środowisko R
+
+\newpage
+
+## Abstract {-}
+
+The master thesis aims to present the spatial differentiation of the level of development of municipalities in the West Pomeranian Voivodeship in the years 2016-2019.
+The construction of a synthetic indicator of the level of socio-economic development and its aspects.
+Then, cluster analysis methods (K-means and DBSCAN) were used to group the observations due to the level of socio-economic development. 
+Using the classes created by the cluster analysis, classifications were carried out using the random forest method and gradient boosting (*xgboost*) to observe which factors and aspects of the level of development showed the greatest significance.
+The next step was to use one-way ANOVA and post-hoc tests to see if there were significant differences between the different levels of development.
+A parametric and non-parametric procedure (Kruskal-Wallis test) was performed.
+Maps were drawn up showing the levels of development of municipalities in the West Pomeranian Voivodeship in 2016-2019.
+The study was conducted using the R&nbsp;environment.
+
+Keywords: cluster analysis, classification, analysis of variance, R&nbsp;environment
+
+\newpage
+
+\setstretch{1.2}\sf\tighttoc\doublespacing
+

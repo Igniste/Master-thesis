@@ -1,0 +1,25 @@
+# Podsumowanie {#podsumowanie1}
+
+W pracy potwierdzono, że metoda k-średnich jest dobrym narzędziem dla stosunkowo niewielkiej liczby obserwacji (114). 
+Przedstawiono pomocne metody wyliczenia optymalnej liczby skupień.
+W pracy zdecydowano się na 3 skupienia, jednak opierając się na metodach wyboru optymalnej liczby skupień ciekawe byłyby dalsze badania oparte na 4 lub 5 skupieniach.
+
+Badanie poziomu istotności czynników podczas klasyfikacji pokazało jak istotna dla poziomu rozwoju jest zwarta tkanka przestrzenna, która ujęta została w takich czynnikach jak *udział osób korzystających z instalacji gazowej w ogóle populacji [%]*, *%&nbsp;mieszkań posiadających centralne ogrzewanie*, *różnica pomiędzy odsetkiem ludności korzystającej z wodociągu i z kanalizacji* oraz *dochody z podatku rolnego na 1 mieszkańca [zł]*.
+Prócz powyższych istotny wpływ na poziom rozwoju mają „twarde" wskaźniki dotyczące życia gospodarczego takie jak *osoby fizyczne prowadzące działalność gospodarczą na 1000 ludności*, *podmioty gospodarcze w sekcjach J-N (usługi, specjaliści, informatyka) na 1000 mieszkańców*, *pracujący na 1000 osób w wieku produkcyjnym*.
+Zgodnie z badaniami dominującym aspektem poziomu rozwoju jest kapitał materialny, a&nbsp;za nim kapitał finansowy.
+Warto zauważyć duże znaczenie innowacji na rozwój, bowiem mimo stosunkowo małego wpływu na poziom rozwoju to był on wyższy lub porównywalny od kapitału społecznego oraz ludzkiego i to pomimo jedynie dwóch wskaźników jakie przekładały się na poziom innowacji.
+Pokazało to, że słusznym okazało się zawarcie do danych dotyczących podmiotów gospodarczych w sekcjach J-N (usługi, specjaliści, informatyka) na 1000 mieszkańców do wskaźników zaproponowanych przez Pana Doktora Perdała (@perdal_zastosowanie).
+
+Dalszych badań wymaga dobór danych do konstrukcji syntetycznego wskaźnika rozwoju, bowiem jak zauważono w badaniu istotny wpływ na poziom rozwoju ma jedynie część z dobranych wskaźników.
+Należałoby zwłaszcza przyjrzeć się innym możliwym wskaźnikom mogącym składać się na poziom innowacyjności.
+Możliwe, że część otrzymanych wyników dotyczących istotności badanych wskaźników wynika ze specyfikacji województwa Zachodniopomorskiego, dlatego w dalszych badaniach należałoby objąć cały kraj.
+
+Jednoczynnikowa analiza wariancji pozwoliła prześledzić polaryzacje poziomu rozwoju gmin w województwie Zachodniopomorskim.
+Na przestrzeni lat 2016-2019 ustalono, że różnica między średnim poziomem rozwoju i wysokim jest znacząco wyższa niż między średnim poziomem rozwoju i niskim.
+Świadczy to o rosnącej dysproporcji w poziomie rozwoju gmin.
+Dzięki temu ustalono, że między rokiem 2016, a 2017 różnica między poszczególnymi poziomami rozwoju znacząco spadła.
+Natomiast w roku 2018, 2019 polaryzacja poziomu rozwoju wzrastała.
+Różnica poziomów rozwoju w 2019 roku była wyższa niż w 2016.
+
+Zaobserwowano także jak niezwykle wszechstronne jest środowisko R. Dzięki mnogości pakietów, pozwala zarówno na transformacje, eksploracje, analizę danych jak i&nbsp;również daje narzędzia do wizualizacji przestrzennej.
+Czyni to środowisko R użytecznym narzędziem do badań nad poziomem rozwoju społeczno-gospodarczym.

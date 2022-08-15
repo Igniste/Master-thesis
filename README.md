@@ -3,10 +3,10 @@ Analysis of the level of socio-economic development of communes in the West Pome
 
 ## Abstract
 
-The master thesis aims to present the spatial differentiation of the level of development of municipalities in the West Pomeranian Voivodeship in the years 2016-2019.
+The master thesis aims to present the spatial differentiation of the level of development of municipalities in the West Pomeranian Voivodeship in the years 2016-2019.
 Theconstruction of a synthetic indicator of the level of socio-economic development and its aspects.
 Then, cluster analysis methods (K-means and DBSCAN) were used to group the observations due to the level of socio-economic development.
-Using the classes created by the cluster analysis, classifications were carried out using the random forest method and gradient boosting (xgboost) to observe which factors and aspects of the level of development showed the greatest significance.
+Using the classes created by the cluster analysis, classifications were carried out using the random forest method and gradient boosting (xgboost) to observe which factors and aspects of the level of development showed the greatest significance.
 The next step was to use one-way ANOVA and post-hoc tests to see if there were significant differences between the different levels of development.
 A parametric and non-parametric procedure (Kruskal-Wallis test) was performed.
 Maps were drawn up showing the levels of development of municipalities in the West Pomeranian Voivodeship in 2016-2019.
